@@ -1,1 +1,7 @@
-teste = 1
+var teste = 1
+
+function testar () {
+  return teste
+}
+
+testar()
