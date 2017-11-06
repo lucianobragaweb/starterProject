@@ -1,0 +1,15 @@
+{
+  "name": "kairos",
+  "version": "1.0.0",
+  "description": "Kairos Inteligence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kairos",
+    "adwords"
+  ],
+  "author": "Luciano Braga <lucianobragaweb@gmail.com> (http://lucianobragaweb.com.br/)",
+  "license": "MIT"
+}
